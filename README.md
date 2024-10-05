@@ -1,6 +1,5 @@
 
 <head>
-    <meta charset=”UTF-8″>
     <title>ебаное кофе</title>
 </head>
 <body>
