@@ -1,5 +1,4 @@
-<!DOCTYPE HTML>
-<html lang=”ru”>
+
 <head>
     <meta charset=”UTF-8″>
     <title>ебаное кофе</title>
@@ -16,5 +15,4 @@
     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
-</body>
-</html>
+
