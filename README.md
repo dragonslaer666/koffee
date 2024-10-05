@@ -8,7 +8,7 @@
     <div id="main">
     <h1>кофе</h1> 
     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Pfeil.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Pfeil.png" alt="Задана ширина и высота" width="100" height="13">
     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
